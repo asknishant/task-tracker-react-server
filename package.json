@@ -1,5 +1,5 @@
 {
-  "name": "Task-Tracker",
+  "name": "task-tracker",
   "version": "1.0.0",
   "description": "task tracker",
   "main": "server.js",
